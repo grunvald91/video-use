@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Запускать на машине кодового агента (например, GitHub Codespaces).
+# Запускать на машине кодового агента (например, Codex Cloud).
 # Не публикует ролики и не запускает GitHub Actions.
 set -euo pipefail
 
